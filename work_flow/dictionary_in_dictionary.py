@@ -11,7 +11,7 @@ people = {
         'age': '23',
         'city': 'new jersey'},
 
-    'person_3' : {
+    'person_3' : {git
         'first_name': 'klava',
         'last_name': 'koka',
         'age': '29',
